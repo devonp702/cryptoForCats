@@ -17,6 +17,7 @@ header {
 
 #logo {
   max-width: 75px;
+  max-height: fit-content;
 }
 
 h1, h2 {
