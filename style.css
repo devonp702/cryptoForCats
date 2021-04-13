@@ -6,6 +6,11 @@
   justify-content: center;
 }
 }
+
+body {
+  background-color: lemonchiffon;
+}
+
 section {
   flex: 2 4;
 }
@@ -13,13 +18,18 @@ section {
 header {
   display: flex;
   justify-content: center;
+  background-color: rgb(38, 173, 38);
 }
 
 #logo {
   max-width: 75px;
-  max-height: fit-content;
+  max-height: 75px;
 }
 
 h1, h2 {
   text-align: center;
+}
+
+h2 {
+  background-color: gold;
 }
